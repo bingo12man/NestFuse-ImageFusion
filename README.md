@@ -43,9 +43,6 @@ In this experiment, we choose SiamRPN++ \cite{li2019siamrpn++} as the base track
 
 ![](https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/tracking_results-01.png)
 
-
-If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
-
 # Citation
 
 ```
